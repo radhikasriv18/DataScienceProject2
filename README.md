@@ -2,6 +2,8 @@
 
 This project contains analysis of two different types of networks:
 
+For each dataset we calculated five graph properties (degree distribution, clustering coefficient, diameter, average shortest path length, and assortativity) to help characterize the network structure.
+
 1. **Facebook Social Network Analysis** (`facebook_social_network_analysis.ipynb`)
 
    - Analysis of social connections in Facebook network data
