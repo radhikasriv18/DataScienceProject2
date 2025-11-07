@@ -32,7 +32,6 @@ The dataset files are not included in this repository. Download them from the St
 
 - `facebook_social_network_analysis.ipynb`: Jupyter notebook containing the analysis of Facebook social network
 - `texas_road_network_analysis.ipynb`: Jupyter notebook containing the analysis of Texas road network
-- `TurnsAroundPointTask.cs`: Supporting code file
 
 ## Getting Started
 
